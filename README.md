@@ -49,8 +49,9 @@
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  
 </div>
-
+  <img src="https://profile-counter.glitch.me/amirtahajavadi/count.svg?"  />
 <br clear="both">
 
 <h3 align="left">🔥   My Stats :</h3>
@@ -59,13 +60,7 @@
 
 <div align="center">
 
-  <div align="center">
-  <img src="https://profile-counter.glitch.me/amirtahajavadi/count.svg?"  />
-</div>
-
 ###
-
-<iframe src="https://abozanona.github.io/pacman-contribution-graph/embeded/canvas.html?username=amirtahajavadi&platform=github" width="800" height="600" frameborder="0"></iframe>
 
 <img src="https://pacman.abozanona.me?username=amirtahajavadi" />
 
