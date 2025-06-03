@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Amirtaha Javadi<br><br>- 🔭 I’m studying CE at University.<br>- 📚 I'm currently learning everything.<br>- 👯 I’m looking to collaborate on Web Development.</p>
+<p align="left">I'm Amirtaha Javadi<br><br>- 🔭 I’m studying CE at University.<br>- 📚 I'm currently learning everything.<br>- 👯 I’m looking to collaborate on Software Development.</p>
 
 ###
 
