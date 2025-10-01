@@ -4,7 +4,7 @@
 
 <div>
   <!-- Teto on right -->
-  <img align="right" src="./teto.png" width="450" style="margin-left: -1000px;" />
+  <img align="right" src="./teto.png" width="450" style="margin-left: -80px;" />
   
   <!-- Content on left -->
   <div>
@@ -30,3 +30,4 @@
 <div align="center">
   <img src="https://pacman.abozanona.me?username=amirtahajavadi" alt="Pacman Game Stats" />
 </div>
+
