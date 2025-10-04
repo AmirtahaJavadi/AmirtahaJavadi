@@ -4,7 +4,7 @@
 
 <div>
   <!-- Teto on right -->
-  <img align="right" src="./teto.png" width="450" style="margin-left: -80px;" loading="lazy" />
+  <!-- <img align="right" src="./teto.png" width="450" style="margin-left: -80px;" loading="lazy" /> -->
   
   <!-- Content on left -->
   <div>
